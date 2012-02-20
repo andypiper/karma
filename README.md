@@ -22,7 +22,7 @@ Edit `karma-phone-service.php` to add valid passthrough numbers for the users to
 
 Install the Karma Phone web app to a publically-visible web server with PHP support.
 
-On Twilio, edit the list of phone numbers and for each one, set the Voice target URL to be the real online location of `karma-phone-service.php?name=user-to-be-called`
+On the Twilio user dashboard, edit the list of phone numbers and for each one, set the Voice target URL to be the real online location of `karma-phone-service.php?name=user-to-be-called`
 
 Point the iPad at the web server.
 
@@ -41,6 +41,7 @@ The user can now select from the menu of users or services, and Skype will be la
 * put userid/phone numbers into a proper database and build UI to enable new users to register with knowledge to share
 * instead of using voicemail Twimlet, build a proper voicemail box with the Twilio API
 * add additional information to the front-end including e.g. realtime data from local sources (traffic, weather, pollution, crime etc)
+* improve UI with better fonts, cached images in CSS, etc
 
 ### Team
 
