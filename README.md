@@ -24,7 +24,7 @@ Another limitation is that this cannot be installed and launched from the iPad L
 
 The visitor to the Karma Phone "booth" selects from a menu of available people to talk to, or chooses to record a message.
 
-![Karma Phone process flow](KarmaPhone-overview.png "Karma Phone")
+![Karma Phone process flow](https://github.com/andypiper/karma/raw/master/KarmaPhone-overview.png "Karma Phone")
 
 The web page asks Skype to place a call to a number which is in fact provided by Twilio.
 
